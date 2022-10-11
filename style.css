@@ -1,0 +1,45 @@
+.body{
+    text-align: center;
+}
+.heading{
+        width: 100%;
+        text-align: left;
+        font-family: 'Staatliches', cursive;
+        color: black;
+        box-shadow: 5px 5px 5px black;
+}
+.heading h3{
+        display: inline;
+    }
+.heading button{
+        float: right;
+        border: 1px solid black;
+        color: black;
+    }
+    .modal-dialog {
+        width: 90%;
+    }
+h4 {
+    background-color:  #0d6efd;
+    color: black;
+    line-height: 2;
+    width: 100%;
+    font-family: 'Staatliches', cursive;
+}
+#start, #status, #restart{
+    font-family: 'Staatliches', cursive;
+    padding: 5px;
+    width: 100px;
+}
+canvas {
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+ol{
+    font-family: 'Staatliches', cursive;
+}
+#div{
+    position: fixed;
+    bottom: 0;
+}
